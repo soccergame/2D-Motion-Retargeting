@@ -1,3 +1,5 @@
+#!/usr/bin/env python
+# -*- coding: utf-8 -*-
 from dataset import get_dataloader
 from common import config
 from model import get_autoencoder
